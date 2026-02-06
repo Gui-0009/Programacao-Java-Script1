@@ -1,0 +1,15 @@
+img{
+    width: 250px;
+    background-color: #aaa1c8;
+    border-radius: 25px;
+}
+body{
+    background-color: #d5c6e0;
+    text-align: center;
+}
+h2{
+    background-color: #967aa1;
+    width: 350px;
+    position: relative;
+    left: 770px;
+}
